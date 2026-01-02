@@ -148,6 +148,5 @@ This project is directly inspired by and aligned with:
 - Integrate attention mechanisms for better global context
 - Use LAB color space instead of RGB for more natural colorization
 - Apply the model to historical photo restoration tasks
-- Deploy as a web application for interactive colorization
 
 ---
